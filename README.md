@@ -84,3 +84,17 @@ W przypadku kiedy zawartość pliku będzie błędnie sformatowana, program poka
 „Nie wprowadziłeś parametrów!” – Użytkownik błędnie wprowadził parametry. Program zostanie zakończony. 
 
 „Program został zakończony.” – Program zakończył swoje działanie i już nic nie będzie robił. 
+
+# Przykładowe fraktale utworzone przez program <h6>
+
+### Barnsley
+
+![GitHub Logo](/images/Barnsley.bmp)
+
+### Dragon
+
+![GitHub Logo](/images/Smok.bmp)
+
+### Spiral
+
+![GitHub Logo](/images/Spirala.bmp)
