@@ -1,0 +1,10 @@
+﻿  drukuj_do_pliku_bmp.c
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_bmp.c(36,22): warning C4098: "drukuj_do_pliku_bmp": funkcja "void" zwraca wartość
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_bmp.c(72,18): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char *[100]"
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_bmp.c(72,18): warning C4024: "strcpy": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_bmp.c(74,36): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char *[100]"
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_bmp.c(74,36): warning C4024: "strcat": różne typy dla formalnego i rzeczywistego parametru 1
+  drukuj_do_pliku_ppm.c
+C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\drukuj_do_pliku_ppm.c(31,22): warning C4098: "drukuj_do_pliku_ppm": funkcja "void" zwraca wartość
+  Generowanie kodu...
+  projekt_pk2_pawel_salicki.vcxproj -> C:\Users\User\Desktop\Studia\Informatyka ROK 1\PK2 Programowanie Komputerów 2\Moja przygoda\PK2 PROJEKT\fraktale_projekt_PK2\Debug\projekt_pk2_pawel_salicki.exe
