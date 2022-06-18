@@ -1,4 +1,4 @@
-# FractalGenerator-Project
+# Fractal-Generator
 Program generuje fraktale przy pomocy Systemu Funkcji Iterowanych (IFS)
 
 # Opis programu <h1>
