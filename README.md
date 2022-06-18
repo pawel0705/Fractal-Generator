@@ -89,12 +89,12 @@ W przypadku kiedy zawartość pliku będzie błędnie sformatowana, program poka
 
 ### Barnsley
 
-![GitHub Logo](/images/Barnsley.bmp)
+![img|512x512](/images/Barnsley.bmp)
 
 ### Dragon
 
-![GitHub Logo](/images/Smok.bmp)
+![img|512x512](/images/Smok.bmp)
 
 ### Spiral
 
-![GitHub Logo](/images/Spirala.bmp)
+![img|512x512](/images/Spirala.bmp)
