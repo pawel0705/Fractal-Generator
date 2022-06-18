@@ -89,12 +89,12 @@ W przypadku kiedy zawartość pliku będzie błędnie sformatowana, program poka
 
 ### Barnsley
 
-![img|512x512](/images/Barnsley.bmp)
+<img src='/images/Barnsley.bmp' width='512'>
 
 ### Dragon
 
-![img|512x512](/images/Smok.bmp)
+<img src='/images/Smok.bmp' width='512'>
 
 ### Spiral
 
-![img|512x512](/images/Spirala.bmp)
+<img src='/images/Spirala.bmp' width='512'>
