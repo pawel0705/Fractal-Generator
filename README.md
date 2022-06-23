@@ -1,5 +1,5 @@
 # Fractal-Generator
-Program generuje fraktale przy pomocy Systemu Funkcji Iterowanych (IFS)
+Program generujeący fraktale przy pomocy Systemu Funkcji Iterowanych (IFS).
 
 ## Opis programu
  
